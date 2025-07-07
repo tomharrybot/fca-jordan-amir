@@ -1,6 +1,6 @@
 {
   "name": "fca-jordan-amir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Advanced Facebook Chat Api 2025",
   "main": "index.js",
   "scripts": {
@@ -90,9 +90,10 @@
   "keywords": [
     "facebook-chat-api",
     "fb-chat-api",
-    "Fca Amir",
+    "fca-amir",
     "fca-jordan",
-    "JORDANxAMIR fca",
-    "fca-amir"
+    "JORDANxAMIR-fca",
+    "fca-amir",
+    "fca-jordan-amir"
   ]
 }
