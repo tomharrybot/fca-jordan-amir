@@ -117,7 +117,7 @@
         "Language": "en",
         "Folder": {
             "Index": {
-                "ErrAppState": "Appstate - Your Cookie Is Wrong, Please Replace It, Or Go To Incognito Browser Then Sign In And Try Again !",
+                "ErrAppState": "Appstate - Your Cookie Is Wrong Please Change First",
                 "CheckPointLevelI": "CheckPoint Detected - Can't Login, Try Logout Then Login And Retrieve Appstate - Cookie !",
                 "UID": "Login as ID: %1",
                 "Area": "Welcome To Server: %1",
@@ -133,7 +133,7 @@
                 "SubmitErrSuccess": "Error Report Sent To Server !",
                 "ErrorWhileSendErr": "An error occurred while trying to send an error to the server !",
                 "OnProcess": "Start the Login Process !",
-                "BackupNoti": "Changing AppState From Backup, If This Continues, Contact Fb.com/Priyanshu.Rajput.Official",
+                "BackupNoti": "Changing AppState From Backup, If This Continues, Contact Fb.com/F4R3BII.AMIR",
                 "ErrGetPassWord": "Error Retrieving AppState Encryption Password !",
                 "ErrGenerateKey": "Error Creating Password For AppState !",
                 "UnsupportedDevice": "Your Operating System Is Currently Not Supported !",
@@ -170,7 +170,7 @@
                 "TypeAccountError": "The account needs to be an ID or Phone number or Gmail!",
                 "ErrDataBase": "Error When Setting Auto Login Data !",
                 "SuccessSetData": "Auto Login Data Set Successfully !",
-                "Missing": "Please Code 2Fa According to the Photo's Guide in PriyanshFca.json Series AuthString!",
+                "Missing": "Please Code 2Fa According to the Photo's Guide in SHONA.json Series AuthString!",
                 "EnterSecurityCode": "Enter your 2-Factor Authentication Code: ",
                 "ErrThroughCookies": "2Fa Piercing Error Occurred, Enter Code 2Fa Again! ",
 
@@ -188,7 +188,7 @@
                 "EVMChange": "Changing replit.nix to support node v14!",
                 "EVMChangeSuccess": "Successfully changed replit.nix, go ahead and restart!",
 
-                "2FaBypassCheckpoint": "The account you are trying to log in to with 2FA has encountered a checkpoint error. There is currently no fix for 2FA checkpoints. Please contact Fb.com/Priyanshu.Rajput.Official for detailed troubleshooting instructions.\n\n ERROR CODE: %1",
+                "2FaBypassCheckpoint": "The account you are trying to log in to with 2FA has encountered a checkpoint error. There is currently no fix for 2FA checkpoints. Please contact Fb.com/F4R3BII.AMIRfor detailed troubleshooting instructions.\n\n ERROR CODE: %1",
 
                 "Ws_TypeUserName": "Please enter a username for your websocket extension account: ",
                 "Ws_TypePassWord": "Please enter a password for your websocket extension account: ",
@@ -200,9 +200,9 @@
                 "Bypass_AutoNoti": "Successfully passed the behavior warning!",
 
                  "WishMessage": [
-                    "Have a Nice Day !",
-                    "Hello how are you !",
-                    "Thank You For Using Priyansh's FCA !"
+                    "BaChiio Ky DeewaNy HeRe 💋🥵!",
+                    "HoT MoRninG 🥵💋 FroM JORDANxAMIR 💋🥵🥵!",
+                    "ONe KiSs💋 FroM JORDANxAMIR 💋 !"
                 ]
             },
             "ExtraGetThread": {
